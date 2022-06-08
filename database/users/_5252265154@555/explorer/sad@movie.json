@@ -1,0 +1,1 @@
+{"url":"http://127.0.0.1:3000/api/user/file/assets?path=P3.mp4","blocks":[{"questions":[{"items":["1","2","3","4","5"],"title":"what is 1+1","trueValue":["2"],"type":0},{"items":["4","5","6","1"],"title":"3+1","trueValue":["4"],"type":0}],"time":4},{"questions":[{"items":["sdfsdf","dsf","sdfdsf"],"title":"admin","trueValue":["sdfsdf"],"type":0}],"time":6}]}
